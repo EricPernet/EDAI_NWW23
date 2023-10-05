@@ -16,4 +16,9 @@ Nutze anschliessend den Code (https://github.com/EricPernet/EDAI_NWW23/blob/main
 
 4. Anschliessend gibst du den Befehl "./resize-script.sh" ein. Dieser sollte nun aus deinen JPG Dateien PNG Dateien erstellen.
 
-5. Wenn das Programm fertig ist, gebe den Befehl "python3 convert-images-to-mnist-format.py" ein. Dieser sollte nun aus allen PNG Files MNIST Files erstellen. Diese erscheinen im Ordner und sind normalerweise ".gz" Dateien. Diese kannst du nun in deinem Trainingsset verwenden. 
+5. Wenn das Programm fertig ist, gebe den Befehl "python3 convert-images-to-mnist-format.py" ein. Dieser sollte nun aus allen PNG Files MNIST Files erstellen. Diese erscheinen im Ordner und sind normalerweise ".gz" Dateien. Diese kannst du nun in deinem Trainingsset verwenden.
+
+
+NUTZUNG DER KI
+
+Die KI ist dazu fähig zwischen zwei Zuständen zu unterscheiden, in unserem Beispiel zwischen zwei Emotionen, nämlich glücklich und nicht glücklich. Siehe für die Trainingssets: 
