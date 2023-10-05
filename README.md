@@ -6,7 +6,7 @@ KONVERTIEREN DER DATEIEN:
 
 Um die Dateien für den KI Code lesbar zu machen werden Datensets benötigt, welche oft aus JPG oder PNG Bilddateien bestehen. Diese müssen jedoch zu MNIST Dateien Konvertiert werden, damit sie von der KI gelesen werden können. Um dies zu erreichen nutzt man einen Computer mit UNIX Betriebssystem. Empfohlenes Programm: MobaXterm https://mobaxterm.mobatek.net
 
-Nutze anschliessend den Code FIXME, Wie auch das Python Skript FIXME speicher beides im UNIX in einem Ordner deiner Wahl ab und befolge die folgende Anleitung:
+Nutze anschliessend den Code (https://github.com/EricPernet/EDAI_NWW23/blob/main/resize-script.sh), Wie auch das Python Skript FIXME speicher beides im UNIX in einem Ordner deiner Wahl ab und befolge die folgende Anleitung:
 
 1. Lade die Bilder in einer Datei namens "training-daten" hoch. Die Datei fügst du in denselben Ordner hinzu wie den resize-script Code. 
 
