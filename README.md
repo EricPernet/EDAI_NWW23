@@ -32,4 +32,6 @@ Füge die MNIST Daten im Code an den Auskommentierten stellen hinzu.
 
 4. Lade den Code aus EDAI final AI script (https://github.com/EricPernet/EDAI_NWW23/blob/main/EDAI%20final%20AI%20script) herunter und füge den Code bei Jupyter in einer neuen Datei hinzu.
 
-5. Lasse die AI laufen, du kannst die Anzahl Interationen und Accuracy beliebig ändern. 
+5. Lasse die AI laufen, du kannst die Anzahl Interationen und Accuracy beliebig ändern.
+
+ACHTUNG: Der Code ist teilweise übernommen aus dem Buch "Programming machine learning" von Paolo Perotta übernommen, siehe dazu: https://www.orellfuessli.ch/shop/home/artikeldetails/A1058600747
