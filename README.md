@@ -2,7 +2,7 @@
 Dies ist die Sammlung der Codes und Informationen zur Emotion detection AI, ein Projekt der Naturwissenschaftlichen Woche der Kantonsschule Kreuzlingen von Eric, Henrik, Rudolf, Finn. 5. Oktober 2023
 
 
-//Konvertieren der Dateien://
+KONVERTIEREN DER DATEIEN:
 
 Um die Dateien für den KI Code lesbar zu machen werden Datensets benötigt, welche oft aus JPG oder PNG Bilddateien bestehen. Diese müssen jedoch zu MNIST Dateien Konvertiert werden, damit sie von der KI gelesen werden können. Um dies zu erreichen nutzt man einen Computer mit UNIX Betriebssystem. Empfohlenes Programm: MobaXterm https://mobaxterm.mobatek.net
 
