@@ -21,4 +21,4 @@ Nutze anschliessend den Code (https://github.com/EricPernet/EDAI_NWW23/blob/main
 
 NUTZUNG DER KI
 
-Die KI ist dazu fähig zwischen zwei Zuständen zu unterscheiden, in unserem Beispiel zwischen zwei Emotionen, nämlich glücklich und nicht glücklich. Siehe für die Trainingssets: 
+Die KI ist dazu fähig zwischen zwei Zuständen zu unterscheiden, in unserem Beispiel zwischen zwei Emotionen, nämlich glücklich und nicht glücklich. Siehe für die Trainingssets, welche wir benutzt haben: https://www.kaggle.com/datasets/msambare/fer2013
