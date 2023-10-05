@@ -27,11 +27,16 @@ Die KI ist dazu fähig zwischen zwei Zuständen zu unterscheiden, in unserem Bei
 Füge die MNIST Daten im Code an den Auskommentierten stellen hinzu.
 
 2. Anschliessend speicherst du den EmReader Code bei dir ab, so dass du ihn später auf einer Oberfläche deiner Wahl (Wir empfehlen Jupyter Notebook: https://jupyter.org)
-
+  
 3. Lade dir Jupyter Notebook herunter und suche nach der EmReader.py Datei
 
 4. Lade den Code aus EDAI final AI script (https://github.com/EricPernet/EDAI_NWW23/blob/main/EDAI%20final%20AI%20script) herunter und füge den Code bei Jupyter in einer neuen Datei hinzu.
 
 5. Lasse die AI laufen, du kannst die Anzahl Interationen und Accuracy beliebig ändern.
+
+
+DATENSETS
+
+Unsere Datensets sind im Ordner "Datensets" gespeichert: 
 
 ACHTUNG: Der Code ist teilweise übernommen aus dem Buch "Programming machine learning" von Paolo Perotta übernommen, siehe dazu: https://www.orellfuessli.ch/shop/home/artikeldetails/A1058600747
