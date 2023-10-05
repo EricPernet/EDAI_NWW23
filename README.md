@@ -23,7 +23,7 @@ NUTZUNG DER KI
 
 Die KI ist dazu fähig zwischen zwei Zuständen zu unterscheiden, in unserem Beispiel zwischen zwei Emotionen, nämlich glücklich und nicht glücklich. Siehe für die Trainingssets, welche wir benutzt haben: https://www.kaggle.com/datasets/msambare/fer2013
 
-1. Sobald du die Trainingsdaten richtig konvertiert hast (siehe Anleitung oben), füge sie in das Skript "EmReader" ein: FIXME
+1. Sobald du die Trainingsdaten richtig konvertiert hast (siehe Anleitung oben), füge sie in das Skript "EmReader" ein: https://github.com/EricPernet/EDAI_NWW23/blob/main/EmReader.py
 Füge die MNIST Daten im Code an den Auskommentierten stellen hinzu.
 
 2. Anschliessend speicherst du den EmReader Code bei dir ab, so dass du ihn später auf einer Oberfläche deiner Wahl (Wir empfehlen Jupyter Notebook: https://jupyter.org)
