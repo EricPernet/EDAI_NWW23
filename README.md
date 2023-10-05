@@ -37,6 +37,6 @@ Füge die MNIST Daten im Code an den Auskommentierten stellen hinzu.
 
 DATENSETS
 
-Unsere Datensets sind im Ordner "Datensets" gespeichert: 
+Eins unserer Datensets ist hier auf dem GitHub gespeichert (lediglich als Beispiel des Dateiformats): test-images-idx3-ubyte_2_.gz
 
 ACHTUNG: Der Code ist teilweise übernommen aus dem Buch "Programming machine learning" von Paolo Perotta übernommen, siehe dazu: https://www.orellfuessli.ch/shop/home/artikeldetails/A1058600747
