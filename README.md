@@ -30,6 +30,6 @@ Füge die MNIST Daten im Code an den Auskommentierten stellen hinzu.
 
 3. Lade dir Jupyter Notebook herunter und suche nach der EmReader.py Datei
 
-4. Lade den Code aus EDAI final AI script (FIXME) herunter und füge den Code bei Jupyter in einer neuen Datei hinzu.
+4. Lade den Code aus EDAI final AI script (https://github.com/EricPernet/EDAI_NWW23/blob/main/EDAI%20final%20AI%20script) herunter und füge den Code bei Jupyter in einer neuen Datei hinzu.
 
 5. Lasse die AI laufen, du kannst die Anzahl Interationen und Accuracy beliebig ändern. 
